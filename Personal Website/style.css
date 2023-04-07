@@ -21,14 +21,12 @@ a {
     
     padding: 10px;
     color: gold;
-   
 }
 
 #Me {
     display: flex;
     justify-content: center;
     padding-top: 30px;  
-   
 }
 #alex {
     height: 300px;
@@ -62,4 +60,21 @@ p, .intro {
     display: flex;
     justify-content: center;
     color: gold;
+}
+.images {
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+}
+.piano {
+    height: 300px;
+    width: 300px;
+}
+.book {
+    height: 300px;
+    width: 300px;
+}
+.code {
+    height: 300px;
+    width: 300px;
 }
