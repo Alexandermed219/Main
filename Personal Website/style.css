@@ -58,3 +58,8 @@ p, .intro {
     justify-content: center;
    padding-top: 250px;
 }
+.About {
+    display: flex;
+    justify-content: center;
+    color: gold;
+}
