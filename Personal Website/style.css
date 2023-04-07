@@ -17,6 +17,12 @@ justify-content: center;
     font-family: Arial, Helvetica, sans-serif;
     text-decoration: none;
 }
+.link2 {
+    font-weight: bold;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+}
 a {
     
     padding: 10px;
@@ -83,10 +89,14 @@ p, .intro {
 }
 .lion {
     height: 300px;
-    width: 300px;
+    width: 500px;
 }
 h1 {
     display: flex;
     justify-content: center;
     color: gold;
+}
+.grocery2 {
+    height: 300px;
+    height: 300px;
 }
