@@ -1,0 +1,11 @@
+html {
+    background-color: aqua;
+}
+h1 {
+    border: 5px;
+    border-color: black;
+    border-style: solid;
+    text-align: center;
+    margin: 5px 5 px 5px 5px;
+    padding: 2px 3px 2px 3px
+}
