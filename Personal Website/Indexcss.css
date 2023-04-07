@@ -1,0 +1,60 @@
+html {
+    background-color: lightgray;
+}
+#sub1{
+    text-align: center;
+    color: ;
+    text-decoration: underline;
+    font-weight: bolder;
+    border: 50px;
+    border-style: groove;
+}
+#sub2{
+    color: crimson;
+    background-color: black;
+}
+#sub3{
+    color: sienna;
+    background-color: black;
+}
+#Meats {
+    display: inline-block;
+    color: white;
+    border: 10px;
+    border-style: solid;
+    border-color: brown;
+    padding: 50px;
+    block-size: 400px;
+    position: relative;
+    background-image: url(Pan_Seared_Steak_Recipe_S3.jpg)
+}
+#NonFridge {
+    display: inline-block;
+    background-color: yellow;
+    color: lime;
+    font-weight: bold;
+    border: 30px;
+    border-style: solid;
+    border-color: orange;
+    padding: 30px;
+    align-items: center;
+    position: relative;
+    background-image: url(R\ \(1\).jpeg);
+    block-size: 400px;
+
+}
+#Vegetables {
+    display: inline-block;
+    background-color:green ;
+    color: white;
+    border: 30px;
+    border-style: solid;
+    border-color: lime;
+    padding: 60px;
+    background-image: url(R.jpeg);
+    block-size: 400px;
+    align-items: center;
+   position: relative;
+   
+
+}

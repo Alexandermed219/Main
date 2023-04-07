@@ -78,3 +78,15 @@ p, .intro {
     height: 300px;
     width: 300px;
 }
+.zoo {
+    color: gold;
+}
+.lion {
+    height: 300px;
+    width: 300px;
+}
+h1 {
+    display: flex;
+    justify-content: center;
+    color: gold;
+}
