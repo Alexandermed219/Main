@@ -1,1 +1,1 @@
-alert("Welcome to my Personal Website project!");
+// alert("Welcome to my Personal Website project!");
