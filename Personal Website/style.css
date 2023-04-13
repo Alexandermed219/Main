@@ -102,5 +102,6 @@ h1 {
 }
 #icon {
     height: 25px;
-    padding-bottom: 10px;
+    display: flex;
+    align-items: center;
 }
