@@ -125,3 +125,13 @@ label {
     color: gold;
     font-size: 25px;
 }
+
+#textarea {
+    height: 100px;
+}
+#space {
+    padding-top: 50px;
+}
+#space2 {
+    padding-top: 50px;
+}
