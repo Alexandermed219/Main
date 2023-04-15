@@ -113,9 +113,10 @@ form {
     padding-left: 600px;
     width: 30%;
 }
-button {
+#sub {
     border-radius: 10px;
     font-size: 25px;
+    width: 50%;
 }
 input {
     border-radius: 10px;
