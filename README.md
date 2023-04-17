@@ -2,4 +2,4 @@ My first website project for Fullstack acadamey, showing my personal interests, 
 
 My Updated website link down below.
 
-alex219.netlify.app
+https://alex219.netlify.app
